@@ -1,0 +1,5 @@
+stepDefinitions\RetailPageTestStepDefinitions.class
+stepDefinitions\Initializer.class
+stepDefinitions\LoginTestStepDefinition.class
+stepDefinitions\DataBaseStepDefinition.class
+runner\TestRunner.class
